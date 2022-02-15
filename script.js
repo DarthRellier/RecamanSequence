@@ -14,7 +14,6 @@ let realHopStartX = 0
 let hopStartX = 0
 let toDoJumpsDiameter = []
 let toDoJumpsBackwards = []
-let jump = 1
 //put your code here
 function move(hopDiameter, moveBackwards){
        toDoJumpsDiameter.push(hopDiameter)
